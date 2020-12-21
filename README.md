@@ -1,0 +1,1 @@
+This project involves creating a replica of the Google Homepage using skills learnt through The Odin Project and freecodecamp
